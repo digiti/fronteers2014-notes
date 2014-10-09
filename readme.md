@@ -14,12 +14,16 @@
 
 
 1. ### State of the animation 2014
-    - https://github.com/web-animations
+    - http://github.com/web-animations
     - will-change instead of translate-z(0) hack
     - rachelnabors.com/waapi
 
 1. ### 3 mini sessions about gamin gin the browser
-
+    - http://lessmilk.com
+    - http://phaser.io (IE9 support with polyfill)
+    - http://impactjs.com/
+    - http://phoboslab.org/xibalba/ (FPS)
+    - http://phoboslab.org/fronteers2014
 
 1. ### WebRTC: a front-end perspective
 
