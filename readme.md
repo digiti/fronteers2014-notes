@@ -15,6 +15,7 @@ Topcoat.io
 
 1. ### State of the animation 2014
 https://github.com/web-animations
+will-change instead of translate-z(0) hack
 
 1. ### 3 mini sessions about gamin gin the browser
 
