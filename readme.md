@@ -29,7 +29,7 @@
 
 
 1. ### Offline first: faster, more fun, and more robust
-
+    - http://hood.ie/
 
 ## Day 2
 1. ### Making Twitter UI infrastructure
