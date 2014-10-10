@@ -20,7 +20,7 @@
     - rachelnabors.com/waapi
     - Greensock, GSAP (https://greensock.com/get-started-js, https://greensock.com/gsap)
 
-1. ### 3 mini sessions about gamin gin the browser
+1. ### 3 mini sessions about gaming in the browser
     - http://lessmilk.com
     - http://phaser.io (IE9 support with polyfill)
     - http://impactjs.com/
@@ -40,16 +40,31 @@
     - http://theintern.io/
     - http://webpack.github.io/ (also used at Instagram)
 	- Webdriver api (Java, #C)
+	- Webpack module bundler (http://webpack.github.io)
+	- http://bem.info/
 
 1. ### Optimizing web performance
     - Mobile first = performance first
     - Don't overdownload on mobile
     - https://developers.google.com/speed/pagespeed/insights/
-    - http://www.webpagetest.org/
-    - Set a performance budget (in KBs). A lot of images or webfonts make you go over this budget and this way you keep it into account
+    - Performance tool (webpagetest.org)
+        - Test real browsers from mult. locations
+        - Modify connection speeds (handy for mobile 3G testing)
+        - Video capture
+        - Content blocking
+        - Script the session
+        - Use continous integration
+        - Collect tests over time
+        - Free
+    - Set a performance budget (in KBs). A lot of images or webfonts make you go over this budget and this way you keep it into account http://timkadlec.com/2013/01/setting-a-performance-budget/
     - Use `srcset`. `<Picture>` can be used for art direction
     - http://microjs.com/
     - https://www.npmjs.org/package/grunt-google-cdn
+    - Course on Chrome Dev tool (Udacity.com/course/ud884/)
+    - redbot.org (Website to check if your server has Browser Cache properly enabled)
+    - http://gulpjs.com/plugins/
+    - http://vanilla-js.com/
+    - https://github.com/ftlabs/fastclick
 
 1. ### Animating SVGs with CSS and SMIL
 
