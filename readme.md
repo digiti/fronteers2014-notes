@@ -36,7 +36,8 @@
 
 ## Day 2
 1. ### Making Twitter UI infrastructure
-
+	- Webdriver api (Java, #C)
+	- Webpack module bundler (http://webpack.github.io)
 
 1. ### Optimizing web performance
 
