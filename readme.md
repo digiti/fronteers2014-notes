@@ -42,7 +42,14 @@
 	- Webdriver api (Java, #C)
 
 1. ### Optimizing web performance
-
+    - Mobile first = performance first
+    - Don't overdownload on mobile
+    - https://developers.google.com/speed/pagespeed/insights/
+    - http://www.webpagetest.org/
+    - Set a performance budget (in KBs). A lot of images or webfonts make you go over this budget and this way you keep it into account
+    - Use `srcset`. `<Picture>` can be used for art direction
+    - http://microjs.com/
+    - https://www.npmjs.org/package/grunt-google-cdn
 
 1. ### Animating SVGs with CSS and SMIL
 
