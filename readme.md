@@ -44,6 +44,16 @@
 	- http://bem.info/
 
 1. ### Optimizing web performance
+    - Course on Chrome Dev tool (Udacity.com/course/ud884/)
+    - Performance tool (webpagetest.org)
+        > Test real browsers from mult. locations
+        > Modify connection speeds (handy for mobile 3G testing)
+        > Video capture
+        > Content blocking
+        > Script the session
+        > Use continous integration
+        > Collect tests over time
+        > Free
 
 
 1. ### Animating SVGs with CSS and SMIL
