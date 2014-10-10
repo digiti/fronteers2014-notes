@@ -60,7 +60,7 @@
     - http://microjs.com/
     - http://vanilla-js.com/
     - https://github.com/ftlabs/fastclick
-
+    - http://nshipster.com/network-link-conditioner/ 
 
 1. ### Animating SVGs with CSS and SMIL
 
