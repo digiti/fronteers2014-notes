@@ -85,7 +85,9 @@
 
 
 1. ### Scaling op & down: evolving your testing strategies
-
+    
+    - http://agilemethodology.org/
+    - 3 question methodology
 
 1. ### Dream big. Think small
 
