@@ -16,7 +16,9 @@
 1. ### State of the animation 2014
     - http://github.com/web-animations
     - will-change instead of translate-z(0) hack
+    - Opacity & transform css animaties zijn performanter (alles wat de layout niet beïnvloed is performanter).
     - rachelnabors.com/waapi
+    - Greensock, GSAP (https://greensock.com/get-started-js, https://greensock.com/gsap)
 
 1. ### 3 mini sessions about gamin gin the browser
     - http://lessmilk.com
@@ -30,6 +32,7 @@
 
 1. ### Offline first: faster, more fun, and more robust
     - http://hood.ie/
+    - Tobias Revell
 
 ## Day 2
 1. ### Making Twitter UI infrastructure
