@@ -68,6 +68,11 @@
     - http://nshipster.com/network-link-conditioner/ 
 
 1. ### Animating SVGs with CSS and SMIL
+    - Verschillen met html
+        - Svg doesn't have a boxmodel so origin point ligt top left (0,0) so css transform-origin (50%,50%)
+    - best Object tag for embed (javascript)
+    - SMIL (http://www.w3.org/TR/SMIL/)
+    - Interesting tutorials http://sarasoueidan.com/
 
 
 1. ### This is the web platform
