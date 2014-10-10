@@ -20,7 +20,7 @@
     - rachelnabors.com/waapi
     - Greensock, GSAP (https://greensock.com/get-started-js, https://greensock.com/gsap)
 
-1. ### 3 mini sessions about gamin gin the browser
+1. ### 3 mini sessions about gaming in the browser
     - http://lessmilk.com
     - http://phaser.io (IE9 support with polyfill)
     - http://impactjs.com/
@@ -45,6 +45,7 @@
 
 1. ### Optimizing web performance
     - Course on Chrome Dev tool (Udacity.com/course/ud884/)
+    - http://timkadlec.com/2013/01/setting-a-performance-budget/
     - Performance tool (webpagetest.org)
         - Test real browsers from mult. locations
         - Modify connection speeds (handy for mobile 3G testing)
@@ -54,6 +55,11 @@
         - Use continous integration
         - Collect tests over time
         - Free
+    - redbot.org (Website to check if your server has Browser Cache properly enabled)
+    - http://gulpjs.com/plugins/
+    - http://microjs.com/
+    - http://vanilla-js.com/
+    - https://github.com/ftlabs/fastclick
 
 
 1. ### Animating SVGs with CSS and SMIL
