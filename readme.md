@@ -38,6 +38,7 @@
 1. ### Making Twitter UI infrastructure
 	- Webdriver api (Java, #C)
 	- Webpack module bundler (http://webpack.github.io)
+	- http://bem.info/
 
 1. ### Optimizing web performance
 
