@@ -33,6 +33,9 @@
 
 ## Day 2
 1. ### Making Twitter UI infrastructure
+    - http://karma-runner.github.io/ vs http://visionmedia.github.io/mocha/
+    - http://theintern.io/
+    - http://webpack.github.io/ (also used at Instagram)
 
 
 1. ### Optimizing web performance
