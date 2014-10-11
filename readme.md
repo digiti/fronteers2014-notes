@@ -66,9 +66,14 @@
     - http://vanilla-js.com/
     - https://github.com/ftlabs/fastclick
     - http://perf-tooling.today/
-    - Taking it easy: Network Link Conditioner
+    - Taking it easy: Network Link Conditioner http://nshipster.com/network-link-conditioner/
 
 1. ### Animating SVGs with CSS and SMIL
+    - Verschillen met html
+        - Svg doesn't have a boxmodel so origin point ligt top left (0,0) so css transform-origin (50%,50%)
+    - best Object tag for embed (javascript)
+    - SMIL (http://www.w3.org/TR/SMIL/)
+    - Interesting tutorials http://sarasoueidan.com/
 
 
 1. ### This is the web platform
@@ -81,7 +86,8 @@
     - http://youdontknowjs.com
 
 1. ### Scaling op & down: evolving your testing strategies
-
+    - http://agilemethodology.org/
+    - 3 question methodology
 
 1. ### Dream big. Think small
 
