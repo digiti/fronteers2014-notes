@@ -39,7 +39,7 @@
     - http://karma-runner.github.io/ vs http://visionmedia.github.io/mocha/
     - http://theintern.io/
     - http://webpack.github.io/ (also used at Instagram)
-	- Webdriver api (Java, #C)
+	- Webdriver api (Java, C#)
 	- Webpack module bundler (http://webpack.github.io)
 	- http://bem.info/
 
