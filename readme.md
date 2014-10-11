@@ -65,6 +65,8 @@
     - http://gulpjs.com/plugins/
     - http://vanilla-js.com/
     - https://github.com/ftlabs/fastclick
+    - http://perf-tooling.today/
+    - Taking it easy: Network Link Conditioner
 
 1. ### Animating SVGs with CSS and SMIL
 
@@ -76,7 +78,7 @@
 
 
 1. ### Choose your own JS adventure
-
+    - http://youdontknowjs.com
 
 1. ### Scaling op & down: evolving your testing strategies
 
