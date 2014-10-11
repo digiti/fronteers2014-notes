@@ -2,7 +2,7 @@
 
 ## Day 1
 1. ### Getting nowhere with CSS best practices
-    - Topcoat.io
+    - http://topcoat.io
 
 1. ### Making maps, the role of frontend infrastructure at Etsy
 
