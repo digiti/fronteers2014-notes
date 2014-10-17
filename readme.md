@@ -79,20 +79,25 @@
     - best Object tag for embed (javascript)
     - SMIL (http://www.w3.org/TR/SMIL/)
     - Interesting tutorials http://sarasoueidan.com/
+    - Op zich was dit één van de boeiendste & tevens meest technische presentaties. Het gebruik van SMIL voor SVG animaties was volledig onbekend voor mij.
+    - Gans de presentatie is terug te vinden in dit artikel op CSS-tricks: http://css-tricks.com/guide-svg-animations-smil
 
 
 1. ### This is the web platform
 
 
 1. ### Using agile to bake in accessability
-
+	- Een boeiende presentatie gebracht door een boeiende vrouw. Veel tips & tricks, maar wat me vooral bijgebleven is zijn volgende 2 zaken: 
+		- Waarom doen we zoveel moeite om toch nog een goede gebruikerservaring te bieden op IE8, terwijl we klanten zouden laten bijbetalen voor goede accessability?
+		- Daag jezelf maar eens uit om het web een halve dag lang te gebruiken met slechts één hand of door een blinddoek te gebruiken. Je zal snel van mening veranderen.
 
 1. ### Choose your own JS adventure
     - http://youdontknowjs.com
 
-1. ### Scaling op & down: evolving your testing strategies
+1. ### Scaling up & down: evolving your testing strategies
     - http://agilemethodology.org/
     - 3 question methodology
 
 1. ### Dream big. Think small
+	- Enorm inspirerende en sterke presentatie over het ontwikkelen van mogelijkheden in de plek van producten. Niemand kan namelijk zien welke producten we in de toekomst zullen gebruiken, fabrikanten bieden ons producten. Maar wij als coders zien deze platformen eerder als mogelijkheden. Deze mogelijkheden geven ons de kans om gehele nieuwe zaken te creëeren. Een mooi voorbeeld hiervan is hoe men vroeger in africa een nieuwe vorm van communicatie creëerde door het niet opnemen van een gsm. Dit is iets wat de providers nooit hadden kunnen voorspellen & is enkel en alleen maar ontstaan door de hoge telefoonkosten die toen van toepassing waren.
 
