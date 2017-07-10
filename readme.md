@@ -41,7 +41,7 @@
 
 ## Day 2
 1. ### Making Twitter UI infrastructure
-    - http://karma-runner.github.io/ vs http://visionmedia.github.io/mocha/
+    - http://karma-runner.github.io/ vs http://mochajs.org/
     - http://theintern.io/
     - http://webpack.github.io/ (also used at Instagram)
 	- Webdriver api (Java, C#)
